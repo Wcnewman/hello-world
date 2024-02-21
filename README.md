@@ -1,2 +1,2 @@
 # hello-world
-"This repository is for practising the GitHub Flow."
+"This repository is a tutorial repository made by William Newman"
